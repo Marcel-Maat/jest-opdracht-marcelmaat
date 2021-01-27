@@ -1,0 +1,20 @@
+
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "oefenen met testen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Marcel Maat",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
